@@ -1,0 +1,43 @@
+*{
+  text-align: center;
+}
+.container{
+  height: 400px;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.btn{
+  height: 150px;
+  width: 40%;
+  border-radius: 45px;
+  border: 10px solid black;
+  margin: 10px;
+}
+
+.red{
+  background-color:rgb(198, 97, 97) ;
+}
+
+.green{
+  background-color:rgb(74, 138, 74) ;
+}
+
+.pink{
+  background-color:pink ;
+}
+
+.orange{
+  background-color:rgb(212, 167, 85) ;
+}
+
+.white{
+  background-color: white;
+}
+
+.yellow{
+  background-color: yellow;
+}
