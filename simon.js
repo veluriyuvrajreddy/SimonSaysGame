@@ -62,7 +62,7 @@ function check1(x){
         }
     }
     else{
-        h4.innerText="GAME OVER!! Press any key to Restart";
+        h4.innerHTML="GAME OVER!!  <b>Your Score : ${level}</b>  Press any key to Restart";
         started=false;
     }
 }
